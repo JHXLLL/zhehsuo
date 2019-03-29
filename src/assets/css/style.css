@@ -1,0 +1,76 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.w{
+   width: 100%;
+}
+
+.a{
+  text-decoration: none;
+  color: #67c23a;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+ul li{
+  list-style: none;
+}
+
+
+.jggl-top {
+    display: flex;
+    background-color: #fff;
+    line-height: 53px;
+  }
+  .jggl-top .jggl-t {
+    font-size: 20px;
+    margin-left: 20px;
+  }
+  .jggl-top .jggl-put {
+    width: 300px;
+    margin-left: 40px;
+  }
+
+  .jggl-top .jggl-a {
+    margin-left: 5px;
+  }
+  .jggl-top .jggl-b {
+    margin-left: 50%;
+    width: 104px;
+    color: #fff;
+    background-color: #67c23a;
+    border-color: #67c23a;
+    position: relative;
+    border-radius: 4px;
+    height: 41px;
+    top: 5px;
+  }
+  .jggl-top .jggl-b .tj {
+    position: absolute;
+    left: 10px;
+    top: 6px;
+    font-size: 20px;
+    top: 10px;
+  }
+  .jggl-top .jggl-b .addjg {
+    color: #ffffff;
+    position: absolute;
+    padding: 0;
+    margin-left: 32px;
+    top: 11px;
+  }
+
+  .dialog-footer{
+      display: flex;
+      justify-content: center;
+  }
